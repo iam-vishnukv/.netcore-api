@@ -1,0 +1,11 @@
+C:\Users\vishnu.kv\Desktop\personal projects\.net Core\TestApplication\TestProject.Service\bin\Debug\netcoreapp2.0\TestProject.Infrastrure.deps.json
+C:\Users\vishnu.kv\Desktop\personal projects\.net Core\TestApplication\TestProject.Service\bin\Debug\netcoreapp2.0\TestProject.Infrastrure.dll
+C:\Users\vishnu.kv\Desktop\personal projects\.net Core\TestApplication\TestProject.Service\bin\Debug\netcoreapp2.0\TestProject.Infrastrure.pdb
+C:\Users\vishnu.kv\Desktop\personal projects\.net Core\TestApplication\TestProject.Service\bin\Debug\netcoreapp2.0\TestProject.Core.dll
+C:\Users\vishnu.kv\Desktop\personal projects\.net Core\TestApplication\TestProject.Service\bin\Debug\netcoreapp2.0\TestProject.Core.pdb
+C:\Users\vishnu.kv\Desktop\personal projects\.net Core\TestApplication\TestProject.Service\obj\Debug\netcoreapp2.0\TestProject.Infrastrure.csprojResolveAssemblyReference.cache
+C:\Users\vishnu.kv\Desktop\personal projects\.net Core\TestApplication\TestProject.Service\obj\Debug\netcoreapp2.0\TestProject.Infrastrure.csproj.CoreCompileInputs.cache
+C:\Users\vishnu.kv\Desktop\personal projects\.net Core\TestApplication\TestProject.Service\obj\Debug\netcoreapp2.0\TestProject.Infrastrure.AssemblyInfoInputs.cache
+C:\Users\vishnu.kv\Desktop\personal projects\.net Core\TestApplication\TestProject.Service\obj\Debug\netcoreapp2.0\TestProject.Infrastrure.AssemblyInfo.cs
+C:\Users\vishnu.kv\Desktop\personal projects\.net Core\TestApplication\TestProject.Service\obj\Debug\netcoreapp2.0\TestProject.Infrastrure.dll
+C:\Users\vishnu.kv\Desktop\personal projects\.net Core\TestApplication\TestProject.Service\obj\Debug\netcoreapp2.0\TestProject.Infrastrure.pdb
